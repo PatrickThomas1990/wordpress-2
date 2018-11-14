@@ -2675,7 +2675,7 @@ p>embed:only-child, p>iframe:only-child, p>object:only-child {
   }
   .custom-logo-link img  {
     display: inline-block;
-    max-height: 113px;
+    max-height: 100px;
     width: auto;
     margin: 0px 0px 0px 0px;
   }
