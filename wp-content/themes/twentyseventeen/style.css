@@ -965,7 +965,7 @@ a:hover, a:active {
   font-size: 0.875rem;
   font-weight: 800;
   line-height: 1.5;
-  margin: 1px auto 2px;
+  margin: 1px auto -13px;
   padding: 1em;
   text-shadow: none;
 }
